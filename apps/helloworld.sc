@@ -4,5 +4,5 @@ __config() -> {
 };
 
 __on_start()->(
-print(player('all'), 'nigger');
+print(player('all'), 'test');
 );
