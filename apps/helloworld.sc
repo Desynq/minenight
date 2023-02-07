@@ -4,5 +4,5 @@ __config() -> {
 };
 
 __on_start()->(
-	print(player('all'), 'hello world');
+	print(player('all'), player('all'));
 );
