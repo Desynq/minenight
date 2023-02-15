@@ -1,4 +1,4 @@
-import('_util', 'import_utils'); import_utils();
+import('_util', ...system_variable_get('util_list'));
 
 __config() -> {
 	'scope' -> 'player',
